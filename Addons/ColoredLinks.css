@@ -66,8 +66,8 @@ html.theme-light [href*="steamcommunity.com/"] {
 }
 
 /* guns.lol */
-[href*="guns.lol"],
-[href*="guns.bio"],
-[href*="fraud.lol"], {
+[href*="https://guns.lol"],
+[href*="https://guns.bio"],
+[href*="https://fraud.lol"], {
     color: #8A00C4 !important;
 }
